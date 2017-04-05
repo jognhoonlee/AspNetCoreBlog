@@ -1,0 +1,7 @@
+D:\CoreBlog\DEB\BLL\bin\Debug\netcoreapp1.1\BLL.deps.json
+D:\CoreBlog\DEB\BLL\bin\Debug\netcoreapp1.1\BLL.dll
+D:\CoreBlog\DEB\BLL\bin\Debug\netcoreapp1.1\BLL.pdb
+D:\CoreBlog\DEB\BLL\obj\Debug\netcoreapp1.1\BLL.csprojResolveAssemblyReference.cache
+D:\CoreBlog\DEB\BLL\obj\Debug\netcoreapp1.1\BLL.AssemblyInfo.cs
+D:\CoreBlog\DEB\BLL\obj\Debug\netcoreapp1.1\BLL.dll
+D:\CoreBlog\DEB\BLL\obj\Debug\netcoreapp1.1\BLL.pdb

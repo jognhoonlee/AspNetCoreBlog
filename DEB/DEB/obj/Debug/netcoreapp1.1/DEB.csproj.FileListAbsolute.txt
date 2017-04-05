@@ -7,3 +7,5 @@ D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.csprojResolveAssemblyReference.c
 D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.AssemblyInfo.cs
 D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.dll
 D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.pdb
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\BLL.dll
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\BLL.pdb
