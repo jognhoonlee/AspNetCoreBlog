@@ -1,0 +1,9 @@
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\DEB.deps.json
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\DEB.runtimeconfig.json
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\DEB.runtimeconfig.dev.json
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\DEB.dll
+D:\CoreBlog\DEB\DEB\bin\Debug\netcoreapp1.1\DEB.pdb
+D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.csprojResolveAssemblyReference.cache
+D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.AssemblyInfo.cs
+D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.dll
+D:\CoreBlog\DEB\DEB\obj\Debug\netcoreapp1.1\DEB.pdb
